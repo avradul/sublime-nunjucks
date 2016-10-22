@@ -6,7 +6,8 @@ A Nunjucks syntax definition specifically for Sublime Text.
 
 1. In Package Control, click `Add Repository` and enter `https://github.com/DJviolin/sublime-nunjucks`
 2. After the repository cloned, click `Install Package`
-3. Done!
+3. Start to type `nunjucks` and select this repository to install.
+4. Done!
 
 ### Update 2016.10.22.
 
