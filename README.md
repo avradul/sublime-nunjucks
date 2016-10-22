@@ -2,13 +2,13 @@
 
 A Nunjucks syntax definition specifically for Sublime Text.
 
-##### Installation
+### Installation
 
 1. In Package Control, click `Add Repository`
 2. After the repository cloned, click `Install Package`
 3. Done!
 
-##### Update 2016.10.22.
+### Update 2016.10.22.
 
 As the [original documentation](https://mozilla.github.io/nunjucks/templating.html#file-extensions) suggesting `.njk` is the community adopted file extension:
 
