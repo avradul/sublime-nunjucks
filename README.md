@@ -4,7 +4,7 @@ A Nunjucks syntax definition specifically for Sublime Text.
 
 ### Installation
 
-1. In Package Control, click `Add Repository`
+1. In Package Control, click `Add Repository` and enter `https://github.com/DJviolin/sublime-nunjucks`
 2. After the repository cloned, click `Install Package`
 3. Done!
 
