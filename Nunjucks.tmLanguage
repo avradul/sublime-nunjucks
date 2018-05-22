@@ -10,6 +10,7 @@
       <string>nunjucks</string>
       <string>nunjs</string>
       <string>html</string>
+      <string>php</string>
     </array>
 
     <key>name</key>
